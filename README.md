@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thedarkking01&label=Profile%20views&color=0e75b6&style=flat" alt="thedarkking01" /> </p>
+ 
 - 🔭 View my portfolio website at [https://sourabh-singh-bais-portfolio.vercel.app/](https://sourabh-singh-bais-portfolio.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/thedarkking01?tab=repositories](https://github.com/thedarkking01?tab=repositories)
