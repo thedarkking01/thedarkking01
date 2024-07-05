@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sourabh Singh Bais</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/thedarkking01?tab=repositories](https://github.com/thedarkking01?tab=repositories)
 - 🔭 View my portfolio website at [https://sourabh-singh-bais-portfolio.vercel.app/](https://sourabh-singh-bais-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://github.com/thedarkking01?tab=repositories](https://github.com/thedarkking01?tab=repositories)
+
 
 - 📫 How to reach me **sourabhsinghbais52@gmail.com**
 
