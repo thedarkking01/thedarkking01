@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **sourabhsinghbais52@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tB-O9aE_5cskv6yDpLBIhjMgg6iF8SQt/view](https://drive.google.com/file/d/1tB-O9aE_5cskv6yDpLBIhjMgg6iF8SQt/view)
+- 📄 Know about my Resume --> [https://drive.google.com/file/d/1tB-O9aE_5cskv6yDpLBIhjMgg6iF8SQt/view](https://drive.google.com/file/d/1tB-O9aE_5cskv6yDpLBIhjMgg6iF8SQt/view)
 
 - ⚡ Fun fact **Looking For a Job**
 
