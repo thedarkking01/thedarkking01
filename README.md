@@ -1,4 +1,4 @@
-<img src="https://github.com/Nitesh-Singh-5/Nitesh-Singh-5/blob/main/icons/header_.png" />
+
 <h1 align="center">Hi 👋, I'm Sourabh Singh Bais</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
