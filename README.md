@@ -34,7 +34,12 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thedarkking01&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff" alt="thedarkking01" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thedarkking01&show_icons=true&locale=en&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=00ff00" alt="thedarkking01" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thedarkking01" alt="thedarkking01" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thedarkking01" alt="thedarkking01" /></a> </p> -->
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=thedarkking01&margin-w=15&margin-h=15&column=7&theme=onedark&no-bg=true&no-frame=true" alt="GitHub Trophies for thedarkking01" />
+  </a>
+</div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thedarkking01&theme=black-ice&background=000000&ring=ffffff&fire=00ff00&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=00ff00" alt="thedarkking01" /></p>
 
