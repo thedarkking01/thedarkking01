@@ -43,3 +43,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thedarkking01&theme=black-ice&background=000000&ring=ffffff&fire=00ff00&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=00ff00" alt="thedarkking01" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thedarkking01&" alt="thedarkking01" /></p>
+
