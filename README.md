@@ -42,5 +42,5 @@
 </div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thedarkking01&theme=black-ice&background=000000&ring=ffffff&fire=00ff00&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=00ff00" alt="thedarkking01" /></p>
-
+[![An image of @thedarkking01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thedarkking01)](https://holopin.io/@thedarkking01)
 
