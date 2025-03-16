@@ -13,6 +13,8 @@
 - 👨‍💻 All of my projects are available at [https://github.com/thedarkking01?tab=repositories](https://github.com/thedarkking01?tab=repositories)
 
 - 💬 Ask me about **anything about Reactjs, Nextjs**
+  
+- 👽 Skills: HTML5, CSS3, JavaScript (ES6+), Node.js, React.js, FastAPI, Python, SQL, MongoDB, Firebase, Git, Docker, Figma, RESTful APIs, Webpack, Agile Development, TDD. 
 
 - 📫 How to reach me **sourabhsinghbais52@gmail.com**
 
