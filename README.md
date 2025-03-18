@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **anything about Reactjs, Nextjs**
   
-- 👽 Skills: HTML5, CSS3, JavaScript (ES6+), Node.js, React.js, FastAPI, Python, SQL, MongoDB, Firebase, Git, Docker, Figma, RESTful APIs, Webpack, Agile Development, TDD. 
+- 👽 My Skills: HTML5, CSS3, JavaScript (ES6+), Node.js, React.js, FastAPI, Python, SQL, MongoDB, Firebase, Git, Docker, Figma, RESTful APIs, Webpack, Agile Development, TDD. 
 
 - 📫 How to reach me **sourabhsinghbais52@gmail.com**
 
