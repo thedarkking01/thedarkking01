@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **sourabhsinghbais52@gmail.com**
 
-- 📄 Know about my Resume --> https://drive.google.com/file/d/1qYBRvBHhb7VSQ6OesVAtDDTFUA1y9C8_/view?usp=sharing
+- 📄 Know about my Resume --> https://drive.google.com/file/d/1oXhdomQjOgOLJhSFFGir_z1IDFpa1CtV/view?usp=sharing
 
 - ⚡ Fun fact **Looking For a Job**
 
