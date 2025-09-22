@@ -20,7 +20,7 @@
 
 - 📄 Know about my Resume --> https://drive.google.com/file/d/1oXhdomQjOgOLJhSFFGir_z1IDFpa1CtV/view?usp=sharing
 
-- ⚡ Fun fact **Looking For a Job**
+- ⚡ Fun fact **Founding Engg.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
